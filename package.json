@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeWithSushil/MobiloPHP.git"
+    "url": "git+https://github.com/Ashishkumbhar01/MobiloPHP.git"
   },
   "keywords": [
     "mobilophp"
   ],
-  "author": "Sushil Kumar",
+  "author": "mobilophp",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeWithSushil/MobiloPHP/issues"
+    "url": "https://github.com/Ashishkumbhar01/MobiloPHP/issues"
   },
-  "homepage": "https://github.com/CodeWithSushil/MobiloPHP#readme"
+  "homepage": "https://github.com/Ashishkumbhar01/MobiloPHP#readme"
 }
